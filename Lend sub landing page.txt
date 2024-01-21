@@ -1,0 +1,84 @@
+<div class="Desktop3" style="width: 100%; height: 100%; position: relative; background: white">
+    <div class="Rectangle50" style="width: 1318px; height: 1300px; left: 61px; top: 290px; position: absolute; background: #D2E4C4; border-top-left-radius: 100px; border-top-right-radius: 100px"></div>
+    <div class="LendYourBooks" style="width: 318px; height: 48px; left: 255px; top: 668px; position: absolute; color: black; font-size: 35.56px; font-family: Inter; font-weight: 900; word-wrap: break-word">Lend your books.</div>
+    <div class="Group34" style="width: 609px; height: 79px; left: 253px; top: 724px; position: absolute">
+        <div class="Rectangle53" style="width: 609px; height: 79px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 14px; border: 1px black solid"></div>
+        <div class="EnterTheIsbn" style="left: 51px; top: 23px; position: absolute; color: rgba(0, 0, 0, 0.53); font-size: 26.56px; font-family: Inter; font-weight: 600; word-wrap: break-word">Enter the ISBN </div>
+    </div>
+    <div class="Group34" style="width: 609px; height: 79px; left: 255px; top: 825px; position: absolute">
+        <div class="Rectangle53" style="width: 609px; height: 79px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 14px; border: 1px black solid"></div>
+        <div class="EnterTheAuthorName" style="left: 51px; top: 23px; position: absolute; color: rgba(0, 0, 0, 0.53); font-size: 26.56px; font-family: Inter; font-weight: 600; word-wrap: break-word">Enter the Author name </div>
+    </div>
+    <div class="Group34" style="width: 609px; height: 79px; left: 255px; top: 930px; position: absolute">
+        <div class="Rectangle53" style="width: 609px; height: 79px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 14px; border: 1px black solid"></div>
+        <div class="EnterTheBookName" style="left: 51px; top: 23px; position: absolute; color: rgba(0, 0, 0, 0.53); font-size: 26.56px; font-family: Inter; font-weight: 600; word-wrap: break-word">Enter the Book name </div>
+    </div>
+    <div class="Frame23" style="padding-left: 12px; padding-right: 12px; padding-top: 5px; padding-bottom: 5px; left: 715px; top: 1031px; position: absolute; background: #9747FF; box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 7px; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+        <div class="Request" style="color: white; font-size: 22.43px; font-family: Inter; font-weight: 600; word-wrap: break-word">Lend/Swap</div>
+    </div>
+    <div class="EverWonderedIfYourBookshelfGetsLonelyHowAboutGivingItSomeFriends" style="width: 901px; left: 253px; top: 592px; position: absolute; color: black; font-size: 25px; font-family: Inter; font-weight: 600; word-wrap: break-word">Ever wondered if your bookshelf gets lonely? How about giving it some friends ?</div>
+    <div class="Rectangle49" style="width: 1440px; height: 82px; left: 0px; top: 1px; position: absolute; background: #D2E4C4"></div>
+    <div class="TheHogwartsDropouts" style="width: 625px; height: 66px; left: 408px; top: 0px; position: absolute; text-align: center; color: white; font-size: 46.04px; font-family: Inter; font-weight: 700; word-wrap: break-word">The Hogwarts Dropouts</div>
+    <div class="Line6" style="width: 1440px; height: 0px; left: 0px; top: 86.50px; position: absolute; border: 4px rgba(0, 0, 0, 0.16) solid"></div>
+    <div class="Line7" style="width: 1440px; height: 0px; left: 0px; top: 168.50px; position: absolute; border: 4px rgba(0, 0, 0, 0.16) solid"></div>
+    <div class="Line8" style="width: 1440px; height: 0px; left: 0px; top: 258.50px; position: absolute; border: 4px rgba(0, 0, 0, 0.16) solid"></div>
+    <div class="Frame21" style="width: 439px; height: 17px; left: 756px; top: 199px; position: absolute; justify-content: center; align-items: flex-start; gap: 35px; display: inline-flex">
+        <div class="Home" style="width: 43px; align-self: stretch; justify-content: center; align-items: center; display: inline-flex">
+            <div class="Home" style="width: 43px; color: #24262D; font-size: 14.43px; font-family: Inter; font-weight: 600; word-wrap: break-word">Home</div>
+        </div>
+        <div class="Home" style="width: 64px; align-self: stretch; justify-content: center; align-items: center; display: inline-flex">
+            <div class="Home" style="width: 64px; color: #24262D; font-size: 14.43px; font-family: Inter; font-weight: 600; word-wrap: break-word">Services</div>
+        </div>
+        <div class="Home" style="width: 72px; align-self: stretch; justify-content: center; align-items: center; display: inline-flex">
+            <div class="Home" style="width: 72px; color: #24262D; font-size: 14.43px; font-family: Inter; font-weight: 600; word-wrap: break-word">About Us</div>
+        </div>
+        <div class="Home" style="flex: 1 1 0; align-self: stretch; justify-content: center; align-items: center; display: inline-flex">
+            <div class="Home" style="width: 79px; color: #24262D; font-size: 14.43px; font-family: Inter; font-weight: 600; word-wrap: break-word">My History</div>
+        </div>
+        <div class="Home" style="width: 41px; align-self: stretch; justify-content: center; align-items: center; display: inline-flex">
+            <div class="Home" style="width: 41px; color: #24262D; font-size: 14.43px; font-family: Inter; font-weight: 600; word-wrap: break-word">Login</div>
+        </div>
+    </div>
+    <div class="Frame22" style="left: 957px; top: 100px; position: absolute; justify-content: center; align-items: flex-start; gap: 58px; display: inline-flex">
+        <div class="Leaderboard" style="width: 48px; height: 48px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div class="Vector" style="width: 48px; height: 48px"></div>
+            <div class="Vector" style="width: 40px; height: 36px; background: #323232"></div>
+        </div>
+        <div class="Vector" style="width: 38px; height: 47.58px; background: #323232"></div>
+        <div class="Vector" style="width: 45px; height: 45px"></div>
+    </div>
+    <div class="Group21" style="width: 293px; height: 58px; left: 243px; top: 100px; position: absolute">
+        <div class="Rectangle49" style="width: 293px; height: 58px; left: 0px; top: 0px; position: absolute; background: #FFBC43; border-radius: 12px"></div>
+        <div class="Unisidekick" style="left: 10px; top: 2px; position: absolute; text-align: center; color: black; font-size: 46.04px; font-family: Inter; font-weight: 700; word-wrap: break-word">UniSideKick</div>
+    </div>
+    <div class="DonateBooksAndSupplies" style="width: 893px; left: 253px; top: 391px; position: absolute; color: #F34803; font-size: 65px; font-family: Inter; font-weight: 700; word-wrap: break-word">DONATE BOOKS AND SUPPLIES</div>
+    <div class="Group26" style="width: 1443px; height: 673px; left: -3px; top: 1590px; position: absolute">
+        <div class="Rectangle47" style="width: 1440px; height: 673px; left: 3px; top: 0px; position: absolute; background: #323232"></div>
+        <div class="NeverStruggleAlone" style="width: 482px; height: 79px; left: 122px; top: 53px; position: absolute; color: white; font-size: 38px; font-family: Inter; font-weight: 700; word-wrap: break-word">Never Struggle Alone<br/><br/></div>
+        <div class="ConnectingStudentsWithTheToolsResourceAndGuidanceTheyNeed" style="width: 1243px; height: 48px; left: 122px; top: 109px; position: absolute; color: white; font-size: 33.04px; font-family: Inter; font-weight: 300; word-wrap: break-word">Connecting Students with the Tools, Resource, and guidance they need<br/><br/></div>
+        <div class="Line4" style="width: 1440px; height: 0px; left: 0px; top: 208px; position: absolute; border: 4px rgba(217, 217, 217, 0.27) solid"></div>
+        <div class="Line5" style="width: 1440px; height: 0px; left: 0px; top: 337px; position: absolute; border: 4px rgba(217, 217, 217, 0.27) solid"></div>
+        <div class="ANewWayToApproachUncertaintiesWeGotYouCovered" style="left: 122px; top: 253px; position: absolute"><span style="color: white; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">A new way to approach </span><span style="color: #AE7AF2; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">uncertainties</span><span style="color: white; font-size: 32px; font-family: Inter; font-weight: 700; word-wrap: break-word">, </span><span style="color: white; font-size: 32px; font-family: Inter; font-weight: 300; word-wrap: break-word">we got you covered.</span></div>
+        <div class="Frame23" style="width: 674.27px; height: 21.73px; left: 122px; top: 388px; position: absolute; justify-content: flex-start; align-items: flex-end; gap: 73px; display: inline-flex">
+            <div class="Home" style="width: 54.97px; height: 21.73px; padding-bottom: 0.73px; justify-content: center; align-items: center; display: flex">
+                <div class="Home" style="width: 54.97px; color: white; font-size: 17.17px; font-family: Inter; font-weight: 600; word-wrap: break-word">Home</div>
+            </div>
+            <div class="Home" style="width: 81.82px; height: 21.73px; padding-bottom: 0.73px; justify-content: center; align-items: center; display: flex">
+                <div class="Home" style="width: 81.82px; color: white; font-size: 17.17px; font-family: Inter; font-weight: 600; word-wrap: break-word">Services</div>
+            </div>
+            <div class="Home" style="width: 92.05px; height: 21.73px; padding-bottom: 0.73px; justify-content: center; align-items: center; display: flex">
+                <div class="Home" style="width: 92.05px; color: white; font-size: 17.17px; font-family: Inter; font-weight: 600; word-wrap: break-word">About Us</div>
+            </div>
+            <div class="Home" style="width: 101px; height: 21.73px; padding-bottom: 0.73px; justify-content: center; align-items: center; display: flex">
+                <div class="Home" style="width: 101px; color: white; font-size: 17.17px; font-family: Inter; font-weight: 600; word-wrap: break-word">My History</div>
+            </div>
+            <div class="Home" style="width: 52.42px; height: 21.73px; padding-bottom: 0.73px; justify-content: center; align-items: center; display: flex">
+                <div class="Home" style="width: 52.42px; color: white; font-size: 17.17px; font-family: Inter; font-weight: 600; word-wrap: break-word">Login</div>
+            </div>
+        </div>
+    </div>
+    <div class="Group39" style="width: 23px; height: 23px; left: 576px; top: 679px; position: absolute">
+        <div class="Ellipse5" style="width: 23px; height: 23px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+        <div class="I" style="left: 10px; top: 4px; position: absolute; color: #0444A3; font-size: 12.43px; font-family: Inter; font-weight: 600; word-wrap: break-word">i</div>
+    </div>
+</div>
